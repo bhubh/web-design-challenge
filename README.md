@@ -13,3 +13,9 @@ We used pandas Dataframe to read and convert the data file in CSV into the html 
 3. humidity.html:  leads to the page with plot of humidity and latitude.
 4. cloudiness.html: leads to the page with plot of cloudiness with latitude of different cities. 
 5. windspeed.html: leads to the page containing plot and description of windspeed vs latitude variation for different cities. 
+
+<br>
+
+# Deployment of the web in github: 
+The repo was deployed publicly and can be accessed publicly from the following link: 
+https://bhubh.github.io/web-design-challenge/
