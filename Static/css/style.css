@@ -15,3 +15,9 @@ img { width: 100%;
 h4{
     font-size: small;
 }
+
+
+table {text-align: center;}
+table thead th {text-align: center;}
+
+
